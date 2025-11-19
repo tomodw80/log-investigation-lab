@@ -1,4 +1,0 @@
-{"eventTime":"2025-11-18T21:25:50Z","eventName":"GetObject","sourceIPAddress":"198.51.100.23","requestParameters":{"bucketName":"brightlane-reports","key":"exports/customers-2025-11-18.csv"}}
-{"eventTime":"2025-11-18T21:26:04Z","eventName":"GetObject","sourceIPAddress":"198.51.100.23","requestParameters":{"bucketName":"brightlane-reports","key":"exports/orders-2025-11-18.csv"}}
-{"eventTime":"2025-11-18T21:40:14Z","eventName":"GetObject","sourceIPAddress":"198.51.100.23","requestParameters":{"bucketName":"brightlane-reports","key":"exports/customers-2025-10-01.csv"}}
-{"eventTime":"2025-11-18T21:40:45Z","eventName":"PutBucketAcl","sourceIPAddress":"198.51.100.23","requestParameters":{"bucketName":"brightlane-reports","x-amz-acl":"public-read"}}
